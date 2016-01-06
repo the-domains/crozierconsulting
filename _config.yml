@@ -1,0 +1,14 @@
+layout_spectrum: 0.2217538
+typography_spectrum: 0.257167
+color:
+  saturation: 0.4797639
+  lightness: 0.6627319
+  brandStrength: 0.296796
+  brandColors:
+    - '#ABBBCE'
+    - '#4B6F91'
+    - '#0F0F13'
+    - '#5C5553'
+    - '#B38977'
+  rhythmicContrast: 0.579258
+name: CrozierConsulting
